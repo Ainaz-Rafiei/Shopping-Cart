@@ -12,7 +12,6 @@ on Browser:
 4-node server.js
 
 ------------------------------------------
-
 Database 
 --------------------------------------------
 
@@ -26,25 +25,18 @@ Database
 });
 
 ------------------------------------------
-
 Postman
 --------------------------------------------
-On Browser:
-1.
-http://localhost:5000/api/products
+- On Browser:
+1. http://localhost:5000/api/products
 
-new request 
-Get:
-2.
-http://localhost:5000/api/products
-3.
-http://localhost:5000/api/test
+- new request Get:
+1. http://localhost:5000/api/products
+2. http://localhost:5000/api/test
 
 --------------------------------------------
 Implement fisrt time the project
 --------------------------------------------
-
-
 1.npm init
 
 2.npm install <package-name>
