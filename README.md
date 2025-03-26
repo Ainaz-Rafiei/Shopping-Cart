@@ -3,6 +3,7 @@
 Vscode
 --------------------------------------------
 on Browser:
+
 1-http://127.0.0.1:8080/
 
 2-cd .\shopping-cart\
@@ -24,6 +25,7 @@ Database
     image: "/images/product-1.jpg"
 });
 
+5. db.products.deleteOne({ title: "Product One" });
 ------------------------------------------
 Postman
 --------------------------------------------
