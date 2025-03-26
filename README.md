@@ -25,6 +25,7 @@ Database
     image: "/images/product-1.jpg"
 });
 
+5. db.products.deleteOne({ title: "Product One" });
 ------------------------------------------
 Postman
 --------------------------------------------
